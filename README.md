@@ -27,4 +27,8 @@ For questions regarding this application please contact me at:
     - E-mail ekowbossman@gmail.com
     - Github:
     <https://github.com/ekowbossman>
+
+## ![alt text](assets/ReadMe.png)
+
+## ![alt text](assets/ReadMe2.png)
     
