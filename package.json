@@ -1,0 +1,25 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekowbossman/Good-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekowbossman/Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/ekowbossman/Good-README-Generator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "inquirer": "^8.2.4",
+    "util": "^0.12.4"
+  }
+}
