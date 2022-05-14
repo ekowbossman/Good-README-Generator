@@ -1,8 +1,8 @@
 
-# My title is ReadMe
+# This is the title for the README
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-     Generating ReadMe
+     Demonstrating how the application works
 ## Table of contents
 * [Description](#description)
 * [Installation](#installation)
@@ -12,16 +12,16 @@ MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](ht
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-        install npm inquirer
+        1. npm init 2. npm i inquirer 
 ## Usage 
-        Ask questions 
+        The user will have a good auto generator ReadMe
 ## License
         MIT
         Covered by MIT
 ## Contributing
         Bossman Quansah
 ## Tests
-        Can by tested by js
+        Can be manually tested
 ## Questions
 For questions regarding this application please contact me at:
     - E-mail ekowbossman@gmail.com
